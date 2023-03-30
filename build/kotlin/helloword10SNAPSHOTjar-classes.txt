@@ -1,0 +1,1 @@
+/root/IdeaProjects/helloword/build/classes/kotlin/main/MainKt.class:/root/IdeaProjects/helloword/build/classes/kotlin/main/br/com/maxoliveira/HelooWordKt.class:/root/IdeaProjects/helloword/build/classes/kotlin/main/br/com/maxoliveira/TiposPrimitivosKt.class
